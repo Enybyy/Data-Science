@@ -33,7 +33,7 @@ El objetivo principal es proporcionar un análisis detallado de los partidos de 
    - Se analiza el rendimiento de los equipos utilizando un modelo estadístico basado en el modelo de Poisson (`prediction.py`).
    - Se predicen los resultados de los partidos y se actualizan las tablas de fases del Mundial de 2022.
 
-4. **Resultados**:
+4. **Resultados**
    - El análisis proporciona una predicción de los resultados de los partidos de la Copa del Mundo 2022, actualizando los equipos avanzados a las etapas siguientes (octavos, cuartos, semifinales, final).
 
 ## Conclusión:
