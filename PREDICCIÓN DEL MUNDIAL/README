@@ -36,7 +36,7 @@ El objetivo principal es proporcionar un análisis detallado de los partidos de 
 4. **Resultados**:
    - El análisis proporciona una predicción de los resultados de los partidos de la Copa del Mundo 2022, actualizando los equipos avanzados a las etapas siguientes (octavos, cuartos, semifinales, final).
 
-## Conclusión
+## Conclusión:
 
 Este proyecto demuestra la capacidad de combinar técnicas de scraping, análisis de datos y modelado estadístico para obtener insights significativos sobre el desempeño en los torneos de la Copa del Mundo. Los resultados permiten entender mejor el rendimiento de los equipos y ofrecen predicciones basadas en datos históricos.
 
