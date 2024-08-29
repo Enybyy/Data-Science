@@ -1,5 +1,10 @@
-Bienvenido a la carpeta de proyectos de ciencia de datos. Aquí encontrarás una colección de proyectos en los que hemos trabajado, abordando una variedad de problemas y aplicando técnicas de análisis de datos, machine learning y visualización. Cada proyecto ha sido desarrollado utilizando una combinación de herramientas y tecnologías populares en el campo de la ciencia de datos.
+# Bienvenido a la Carpeta de Proyectos de Ciencia de Datos
 
-Contenido:
-- PREDICCION DE COPA DEL MUNDO:
-Este proyecto se centró en la extracción de datos de partidos de las Copas del Mundo pasadas utilizando Python, BeautifulSoup, Selenium y Pandas. El objetivo principal fue recopilar información detallada sobre los partidos de fútbol de los Mundiales anteriores para su posterior análisis y modelado predictivo.
+En esta carpeta encontrarás una colección de proyectos relacionados con la ciencia de datos, cada uno abordando distintos problemas y aplicando técnicas avanzadas de análisis de datos, machine learning y visualización. Todos los proyectos se han desarrollado utilizando herramientas y tecnologías reconocidas en el campo de la ciencia de datos.
+
+## Contenido
+
+- **Predicción de la Copa del Mundo**:
+  Este proyecto se enfoca en la extracción y análisis de datos de partidos de la Copa del Mundo. Utilizando Python, BeautifulSoup, Selenium y Pandas, se recopila información detallada sobre los partidos de los Mundiales anteriores. El objetivo principal es analizar estos datos y desarrollar modelos predictivos para pronosticar resultados futuros.
+
+Cada proyecto incluye scripts y archivos necesarios para reproducir y entender el trabajo realizado. Explora los detalles para conocer más sobre las técnicas empleadas y los resultados obtenidos.
